@@ -1,0 +1,17 @@
+{
+ "name": "Soupreme Noodle Co. Menu",
+ "short_name": "Soupreme",
+ "description": "Urban Noodle Club · 13817 Whittier Blvd, Whittier, CA 90605",
+ "start_url": "./",
+ "display": "minimal-ui",
+ "lang": "en",
+ "background_color": "#FDFAFA",
+ "theme_color": "#FDFAFA",
+ "icons": [
+  {
+   "src": "assets/brand/icon.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
