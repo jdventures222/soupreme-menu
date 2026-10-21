@@ -2,24 +2,24 @@
  "layout": "diner-print-v1",
  "printer_sha256": "ff9ca4247e94070f05892bf397859b23ce19bf90ff6ad678dd5a5176fb18d8cb",
  "pages": {
-  "index.html": "e429ec51208284af040e66349ec3031cd7542dbaf9ed589a59653eb3fd25165c"
+  "index.html": "fc1e6cdf5ede7bcb0466db8bf0725b06182abd461ed3993f0a281136bb70da0c"
  },
  "print_pages": {
-  "SOUPREME-Menu-en.html": "642ddfc2ac025418b8fb68663e2ae08ec8d934364979dafa1d3b42561bc23bf6",
-  "SOUPREME-Menu-es.html": "61b4c615b24486c92533835d726bab01e6e8a09aa6d3d8c3b0ed1c2fdf6d4b22",
-  "SOUPREME-Menu-vi.html": "058e0a8c2af912908bd82d62a873e62cf025cabe5884b51223e4bd186ff62077",
-  "SOUPREME-Menu-ko.html": "6b04e32892fd204ac46afc4a5cb69882979683316907e732ae435e3c9fee55a4",
-  "SOUPREME-Menu-zh.html": "4f0558dffcae91ce1cb85c83a11890b00b5b81608b040073688cb39bc8336aff",
-  "SOUPREME-Menu-zh-Hant.html": "873136462a71dc27356adc087dfb418a163ef5c2405e7e626a74ec32917188e0",
-  "SOUPREME-Menu-tl.html": "2cff3387b9b2524f9e61093ac8bae8d6d14d3b62a0eb33c5896b944049def258",
-  "SOUPREME-Menu-fa.html": "bd97b2ec1da566bf453e7e812574e3cf244db945976db23da7398022612ac8dc",
-  "SOUPREME-Menu-ar.html": "78a7c62e7ebe43021b8883ff7ea281b4bf25bc06e9f247831bd604aac2b6a662",
-  "SOUPREME-Menu-ja.html": "a10ce0eff99068d199c2bf8d7703e9de88afae51067973065b15b9c439cb87cc",
-  "SOUPREME-Menu-ru.html": "bfd7a571d8fa57208cc209d277ab21f15612da48064cfc925f3cabbe7c3dc3bf",
-  "SOUPREME-Menu-hi.html": "b739110387346376a3bc693e92c7fa29ff86deaf73a44ed63ff1704666e4f1ed",
-  "SOUPREME-Menu-ur.html": "218a796b6f512057e43ad78691e8bb6347c4bdcc3487d2285d934abd52f56401"
+  "SOUPREME-Menu-en.html": "c2b6de7c22cf0c0d2a14ba14cef9c6bd8e440ae963c1f77d31dba0dd43ac3193",
+  "SOUPREME-Menu-es.html": "28027d97f1b68ab26dc6b71b0efeff6014ad7582761d1f24c6255c8d1254c16c",
+  "SOUPREME-Menu-vi.html": "38d146daebd80d8711e025fb0591174345d711d4920c05be2081f1d2ecfaafab",
+  "SOUPREME-Menu-ko.html": "981f97a19d685fa4ae608346b04a06151c2178f4b4ae40dea7df758cb686f69c",
+  "SOUPREME-Menu-zh.html": "2deedd5ef1e46bec60f1eeefa88d670be964a04628e880788dffb6522512fd4a",
+  "SOUPREME-Menu-zh-Hant.html": "d8a84d0f69185dc0efa868488082673fc8bcdaf1eb3c7fca9592d60f504e4a31",
+  "SOUPREME-Menu-tl.html": "0a9e264c96a642d0137380def3b4f91c48e4c41d0689a569e6519aa2e1c0e5a4",
+  "SOUPREME-Menu-fa.html": "b785a6adabc6db2633e28bc08b667cc4434cc1d90933c2c7feb110eeb2ad595b",
+  "SOUPREME-Menu-ar.html": "16e6eba844256c62feca9ee58e793db43ac46428e1e4bf8f18005f2c7d055fb1",
+  "SOUPREME-Menu-ja.html": "5864a445824bacf2b9f11658c75458fc98e378bc0e1e0efde118f381b8d8c059",
+  "SOUPREME-Menu-ru.html": "205bf6c24837aa273735f45462e34d6298df6761c78e364e2ea9398addef4bff",
+  "SOUPREME-Menu-hi.html": "0e2ae3afea52fd0cbefa5f3c83308bd074dbefaa1706820e0dafd8a94c561f6f",
+  "SOUPREME-Menu-ur.html": "176c4f27bd73f630486530bf5a5607cea0aedf069a538c40b6c11aa552915c74"
  },
- "source_sha256": "193add9190071e8c5fc6c42efec9bf649074f34a8ae91665b629740fb4ffdbb3",
+ "source_sha256": "f4eb5fbd569f3ee1070afc4e12bc8fc58e5f7ec1cb2abb12f8c244b668b0d4a5",
  "revision_date": "2026-10-21",
  "files": [
   "SOUPREME-Menu-ar.pdf",
@@ -52,18 +52,18 @@
   "SOUPREME-Menu-ur.pdf": "name                                 type              encoding         emb sub uni object ID\n------------------------------------ ----------------- ---------------- --- --- --- ---------\nAAAAAA+NotoNastaliqUrdu              CID TrueType      Identity-H       yes yes yes      4  0\nBAAAAA+Times-Bold                    CID TrueType      Identity-H       yes yes yes      8  0\nCAAAAA+NotoNastaliqUrdu-Bold         CID TrueType      Identity-H       yes yes yes      9  0\nDAAAAA+Times-Roman                   CID TrueType      Identity-H       yes yes yes     10  0\nEAAAAA+NotoNastaliqUrdu              CID TrueType      Identity-H       yes yes yes     11  0\nFAAAAA+NotoNastaliqUrdu-Bold         CID TrueType      Identity-H       yes yes yes     12  0\nGAAAAA+NotoNastaliqUrdu-Bold         CID TrueType      Identity-H       yes yes yes     16  0\nHAAAAA+Times-Roman                   CID TrueType      Identity-H       yes yes yes     17  0\nIAAAAA+NotoNastaliqUrdu              CID TrueType      Identity-H       yes yes yes     18  0\nJAAAAA+HelveticaNeue-Bold            CID TrueType      Identity-H       yes yes yes     19  0\nKAAAAA+NotoNastaliqUrdu-Bold         CID TrueType      Identity-H       yes yes yes     21  0\nLAAAAA+NotoNastaliqUrdu-Bold         CID TrueType      Identity-H       yes yes yes     22  0\nMAAAAA+HelveticaNeue                 CID TrueType      Identity-H       yes yes yes     23  0\nNAAAAA+NotoNastaliqUrdu              CID TrueType      Identity-H       yes yes yes     24  0\nOAAAAA+Times-Bold                    CID TrueType      Identity-H       yes yes yes     28  0\nPAAAAA+NotoNastaliqUrdu              CID TrueType      Identity-H       yes yes yes     43  0\nQAAAAA+NotoNastaliqUrdu-Bold         CID TrueType      Identity-H       yes yes yes     65  0\nRAAAAA+NotoNastaliqUrdu-Bold         CID TrueType      Identity-H       yes yes yes     80  0\nSAAAAA+Times-Roman                   CID TrueType      Identity-H       yes yes yes    130  0\nTAAAAA+Times-Roman                   CID TrueType      Identity-H       yes yes yes    132  0\nUAAAAA+Times-Roman                   CID TrueType      Identity-H       yes yes yes    151  0\nVAAAAA+Times-Bold                    CID TrueType      Identity-H       yes yes yes    157  0\n"
  },
  "pdf_sha256": {
-  "SOUPREME-Menu-en.pdf": "40c7aab233c5c489cf2bc564e5a177dbb34dc2f0493a3d8673a07c2ead2a7900",
-  "SOUPREME-Menu-es.pdf": "cbaa9d110b639e6004fc9af0e54405b3cc6804113ecb841d8495dedf1fdc90a0",
-  "SOUPREME-Menu-vi.pdf": "54cb783fe01751914d00d57e02490e08eb6651f6d2d93be799bd474ababe956d",
-  "SOUPREME-Menu-ko.pdf": "3eac363eba598fac6392a6848b1dd186481e308c5b44464d64ce9e5672345575",
-  "SOUPREME-Menu-zh.pdf": "def8ae780a2f3581045a5d896d50014106ccf255b92e088ebf81d3311f29e764",
-  "SOUPREME-Menu-zh-Hant.pdf": "00fecee5f5b183898acd020ff0032e9a682416e0bf4b4de5abfc172cff3d0b11",
-  "SOUPREME-Menu-tl.pdf": "76c24287b291244ac4f9a620b03d50caf8a404c85274828ca215ff8169d9d282",
-  "SOUPREME-Menu-fa.pdf": "b1ca26acd88e8179fa187673cf60457060701a169d26e0d8e98e284cb823c151",
-  "SOUPREME-Menu-ar.pdf": "faa2e340ce38d306db8d545962f933be57f15684d227aa63d461179101c33ebf",
-  "SOUPREME-Menu-ja.pdf": "49da24c3cf6a6445c71fe1f6ce238e37923e751817b37db867bb089f0390c40e",
-  "SOUPREME-Menu-ru.pdf": "4b50bc758a5935d7d12c59bb5c39b0666fb36f08daf0de731da21e2c971da28e",
-  "SOUPREME-Menu-hi.pdf": "d44e5d51fa45dbe55106779ad8d6bef01843029713c6b093dce412d3dcafb104",
-  "SOUPREME-Menu-ur.pdf": "faed1230379d4c0864011c2c9661cc23a082c2e7bf871e41f9e01a41b77a4440"
+  "SOUPREME-Menu-en.pdf": "eaa247b1fb5f77d16adf53d7c96ab2e52867824a9d9aaee183ecad2f42c9092f",
+  "SOUPREME-Menu-es.pdf": "a7f5d2768123e81237a74a7457a80640870f86a0544634a6531ea57857543f17",
+  "SOUPREME-Menu-vi.pdf": "62434eb1f91acba03b7c48773720d84355b2c0f06d735b50b86fb6f973dfa5de",
+  "SOUPREME-Menu-ko.pdf": "2008e47337aa6e1d92944e3364f8437b3c4fc38f7bbb5c59fd897fe4504da518",
+  "SOUPREME-Menu-zh.pdf": "4eea598d231c0ef268815c8f4536e73650c3677d3361eb033e342b6281d943a9",
+  "SOUPREME-Menu-zh-Hant.pdf": "e691be9d4c2a0e8fd971be72b77c9f70ee4b1d522b7849e232182d4ac54a173a",
+  "SOUPREME-Menu-tl.pdf": "eafd4e90b16245b1be3ea948b86d056170224aa0487ed1bb83c9c9af8eca31a7",
+  "SOUPREME-Menu-fa.pdf": "9f987e0f5ffd5a3ef9b347753383288abdf04b2db47d3ca46d0167646b6c8e18",
+  "SOUPREME-Menu-ar.pdf": "d29042365990f9925546b537e79054a0a0d602d52cea01fea357a14272d2e502",
+  "SOUPREME-Menu-ja.pdf": "b8d1ee8c91d943ccfdde34ef38eae700cece0ac6561b3827beb7ff495243e56a",
+  "SOUPREME-Menu-ru.pdf": "ef528305040b975bb60a941d820afbe1bff57a7e1e4081ac62c7a4983d06a7e2",
+  "SOUPREME-Menu-hi.pdf": "d433d79e723bf6221576d8b6e3a5cc1b6e6df1ad7425c1cd3983a2c1f24cbd05",
+  "SOUPREME-Menu-ur.pdf": "40596c36244900446ac01c96d215980935b7a242bf9a818e6eff8951235455e4"
  }
 }
